@@ -1,0 +1,3 @@
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/sklearn/preprocessing/_polynomial.py:440: RuntimeWarning: overflow encountered in multiply
+  np.multiply(
+nevals: 500/500  time: 0.3min  y_feas_min: -0.501

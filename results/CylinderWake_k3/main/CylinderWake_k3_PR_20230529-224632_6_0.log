@@ -1,0 +1,1350 @@
+Starting label pr__ei, seed None, iteration 50/500, time: 0.002351999282836914, current best obj: 0.06719009396292958.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 51/500, time: 51.451159954071045, current best obj: 0.07382877932625696.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 52/500, time: 103.4190583229065, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 53/500, time: 155.97223114967346, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 54/500, time: 209.0789201259613, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 55/500, time: 263.6159977912903, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 56/500, time: 318.02117466926575, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 57/500, time: 375.9103727340698, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 58/500, time: 434.6232657432556, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 59/500, time: 495.6101984977722, current best obj: 0.07435068125674599.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 60/500, time: 556.664356470108, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 61/500, time: 618.7073485851288, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 62/500, time: 682.0295639038086, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 63/500, time: 745.7950103282928, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 64/500, time: 810.8298790454865, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 65/500, time: 877.2063961029053, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 66/500, time: 944.4045593738556, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 67/500, time: 1012.9656069278717, current best obj: 0.1178117446406966.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 68/500, time: 1083.8895857334137, current best obj: 0.11894431578286627.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 69/500, time: 1154.8063342571259, current best obj: 0.11894431578286627.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 70/500, time: 1226.8033511638641, current best obj: 0.11894431578286627.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 71/500, time: 1299.4617166519165, current best obj: 0.11894431578286627.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 72/500, time: 1374.3867523670197, current best obj: 0.11894431578286627.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 73/500, time: 1448.6442472934723, current best obj: 0.19706007532617884.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 74/500, time: 1521.6382298469543, current best obj: 0.24119518594154984.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 75/500, time: 1596.1080813407898, current best obj: 0.2851969069755048.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 76/500, time: 1671.0092735290527, current best obj: 0.6530342585982886.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 77/500, time: 1746.952162027359, current best obj: 0.6530342585982886.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 78/500, time: 1824.157642364502, current best obj: 0.6535644155986291.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 79/500, time: 1902.3243596553802, current best obj: 0.6535644155986291.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 80/500, time: 1981.893326997757, current best obj: 0.6535644155986291.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 81/500, time: 2062.17001414299, current best obj: 0.6560607960322985.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 82/500, time: 2144.150223016739, current best obj: 0.6560607960322985.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 83/500, time: 2227.0276353359222, current best obj: 0.6566046882259979.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 84/500, time: 2311.423838376999, current best obj: 0.6566046882259979.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 85/500, time: 2395.901521921158, current best obj: 0.6566046882259979.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 86/500, time: 2482.8290276527405, current best obj: 0.6566046882259979.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 87/500, time: 2568.79537153244, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 88/500, time: 2659.378597974777, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 89/500, time: 2749.0573127269745, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 90/500, time: 2841.329384803772, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 91/500, time: 2934.1122391223907, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 92/500, time: 3030.8629310131073, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 93/500, time: 3126.105183362961, current best obj: 0.6709317941618637.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 94/500, time: 3223.8165204524994, current best obj: 0.6710337085902367.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 95/500, time: 3321.227386713028, current best obj: 0.6710337085902367.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 96/500, time: 3420.294471025467, current best obj: 0.6710337085902367.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 97/500, time: 3520.3514664173126, current best obj: 0.6796425523125607.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 98/500, time: 3621.9898014068604, current best obj: 0.6796425523125607.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 99/500, time: 3722.7152893543243, current best obj: 0.6796425523125607.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 100/500, time: 3826.3945484161377, current best obj: 0.6796425523125607.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 101/500, time: 3930.8948605060577, current best obj: 0.6802174715406237.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 102/500, time: 4035.4509665966034, current best obj: 0.6802174715406237.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 103/500, time: 4140.87242937088, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 104/500, time: 4248.653880119324, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 105/500, time: 4355.975024700165, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 106/500, time: 4463.568314552307, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 107/500, time: 4570.366519212723, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 108/500, time: 4680.307442188263, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 109/500, time: 4791.540874004364, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 110/500, time: 4904.159593820572, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 111/500, time: 5016.855185747147, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 112/500, time: 5132.609484672546, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 113/500, time: 5248.463282823563, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 114/500, time: 5364.576462507248, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 115/500, time: 5482.8067462444305, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 116/500, time: 5601.633732557297, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 117/500, time: 5723.300991535187, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 118/500, time: 5846.143706083298, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 119/500, time: 5969.696243524551, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 120/500, time: 6093.8656623363495, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 121/500, time: 6221.354574918747, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 122/500, time: 6349.107735157013, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 123/500, time: 6478.94681596756, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 124/500, time: 6609.007495880127, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 125/500, time: 6743.422374725342, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 126/500, time: 6877.418787240982, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 127/500, time: 7014.476847648621, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 128/500, time: 7153.270924091339, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 129/500, time: 7291.0736203193665, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 130/500, time: 7430.713224172592, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 131/500, time: 7571.087403297424, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 132/500, time: 7714.32244515419, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 133/500, time: 7857.367032527924, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 134/500, time: 8001.462596893311, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 135/500, time: 8145.948000192642, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 136/500, time: 8292.680832624435, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 137/500, time: 8439.471580982208, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 138/500, time: 8587.409921884537, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 139/500, time: 8739.039483070374, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 140/500, time: 8891.627327680588, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 141/500, time: 9047.52700304985, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 142/500, time: 9204.567177295685, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 143/500, time: 9364.897281646729, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 144/500, time: 9525.991287231445, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 145/500, time: 9687.467946052551, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 146/500, time: 9850.424455165863, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 147/500, time: 10014.661642313004, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 148/500, time: 10180.480503320694, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 149/500, time: 10346.921000242233, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 150/500, time: 10515.754083156586, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 151/500, time: 10687.48704123497, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 152/500, time: 10860.321635007858, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 153/500, time: 11035.938267946243, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 154/500, time: 11210.073645353317, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 155/500, time: 11388.278483629227, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 156/500, time: 11566.857453107834, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 157/500, time: 11748.158216714859, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 158/500, time: 11931.841732740402, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 159/500, time: 12118.188519716263, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 160/500, time: 12304.469246864319, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 161/500, time: 12491.571357488632, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 162/500, time: 12683.544160842896, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 163/500, time: 12874.720175504684, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 164/500, time: 13069.31920838356, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 165/500, time: 13267.000310659409, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 166/500, time: 13471.816707849503, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 167/500, time: 13672.925871133804, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 168/500, time: 13875.806205034256, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 169/500, time: 14077.087147951126, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 170/500, time: 14283.516315937042, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 171/500, time: 14491.663491010666, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 172/500, time: 14700.98710513115, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 173/500, time: 14911.252410173416, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 174/500, time: 15124.431394577026, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 175/500, time: 15339.97043967247, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 176/500, time: 15558.259104967117, current best obj: 0.6836592240884786.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 177/500, time: 15779.405710697174, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 178/500, time: 15999.440293312073, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 179/500, time: 16217.99938750267, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 180/500, time: 16440.57932806015, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 181/500, time: 16665.0326256752, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 182/500, time: 16892.003675460815, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 183/500, time: 17119.771426677704, current best obj: 0.7037937587975422.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 184/500, time: 17350.181455135345, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 185/500, time: 17580.86238694191, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 186/500, time: 17812.753130197525, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 187/500, time: 18047.021161794662, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 188/500, time: 18285.61881875992, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 189/500, time: 18523.28527855873, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 190/500, time: 18764.088184595108, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 191/500, time: 19005.59546661377, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 192/500, time: 19249.12406396866, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 193/500, time: 19492.122643709183, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 194/500, time: 19738.9137237072, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 195/500, time: 19985.837109804153, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 196/500, time: 20233.797565460205, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 197/500, time: 20482.70770382881, current best obj: 0.7040589180652588.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 198/500, time: 20736.631721496582, current best obj: 0.7695857076566084.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 199/500, time: 20991.188750505447, current best obj: 0.7695857076566084.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 200/500, time: 21246.07879257202, current best obj: 0.7695857076566084.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 201/500, time: 21502.753585100174, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 202/500, time: 21759.40827870369, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 203/500, time: 22021.926156044006, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 204/500, time: 22283.723881959915, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 205/500, time: 22521.65977883339, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 206/500, time: 22743.752666950226, current best obj: 0.8970434214319176.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 207/500, time: 22967.842574119568, current best obj: 0.9159037761257051.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 208/500, time: 23192.608365535736, current best obj: 0.9159037761257051.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 209/500, time: 23419.24658226967, current best obj: 0.9159037761257051.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 210/500, time: 23646.98632478714, current best obj: 0.9159037761257051.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 211/500, time: 23876.681436538696, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 212/500, time: 24107.737788438797, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 213/500, time: 24340.71919965744, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 214/500, time: 24563.840049505234, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 215/500, time: 24776.3298933506, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 216/500, time: 24989.68615913391, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 217/500, time: 25202.07026696205, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 218/500, time: 25418.7791595459, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 219/500, time: 25634.41063928604, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 220/500, time: 25851.382916212082, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 221/500, time: 26068.24652338028, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 222/500, time: 26286.892597675323, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 223/500, time: 26509.211643218994, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 224/500, time: 26729.522619962692, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 225/500, time: 26950.650686979294, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 226/500, time: 27171.22560596466, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 227/500, time: 27393.3321249485, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 228/500, time: 27617.986454486847, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 229/500, time: 27842.82984828949, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 230/500, time: 28070.243379592896, current best obj: 0.9163063482679943.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 231/500, time: 28298.534608125687, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 232/500, time: 28528.33211040497, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 233/500, time: 28758.072927713394, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 234/500, time: 28989.597977638245, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 235/500, time: 29221.043226718903, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 236/500, time: 29455.417322158813, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 237/500, time: 29687.550525188446, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 238/500, time: 29921.92784833908, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 239/500, time: 30155.830220222473, current best obj: 0.9627461242456864.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 240/500, time: 30395.935791492462, current best obj: 0.9630075692446898.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 241/500, time: 30632.38525390625, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 242/500, time: 30870.183270692825, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 243/500, time: 31109.218316316605, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 244/500, time: 31352.334609508514, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 245/500, time: 31596.254481077194, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 246/500, time: 31837.739680051804, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 247/500, time: 32080.419831752777, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 248/500, time: 32323.799481391907, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 249/500, time: 32567.056709766388, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 250/500, time: 32812.69465613365, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 251/500, time: 33057.948148965836, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 252/500, time: 33305.11045002937, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 253/500, time: 33552.07406997681, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 254/500, time: 33801.582549095154, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 255/500, time: 34050.797691106796, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 256/500, time: 34301.278096437454, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 257/500, time: 34555.946142435074, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 258/500, time: 34809.78466296196, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 259/500, time: 35064.62773871422, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 260/500, time: 35323.09957051277, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 261/500, time: 35578.718626737595, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 262/500, time: 35835.90218615532, current best obj: 0.9637823673924802.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 263/500, time: 36093.06758570671, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 264/500, time: 36352.05000114441, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 265/500, time: 36612.18192362785, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 266/500, time: 36874.05893754959, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 267/500, time: 37136.048625946045, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 268/500, time: 37399.99176430702, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 269/500, time: 37666.22504520416, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 270/500, time: 37936.995839357376, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 271/500, time: 38212.84556913376, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 272/500, time: 38528.825675964355, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 273/500, time: 38847.702546834946, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 274/500, time: 39174.32224488258, current best obj: 1.137123316316781.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 275/500, time: 39499.40032577515, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 276/500, time: 39822.436312913895, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 277/500, time: 40148.09640145302, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 278/500, time: 40481.18797659874, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 279/500, time: 40807.67678952217, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 280/500, time: 41091.56054019928, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 281/500, time: 41369.10436797142, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 282/500, time: 41648.35634756088, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 283/500, time: 41927.130937337875, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 284/500, time: 42207.99002575874, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 285/500, time: 42489.01720023155, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 286/500, time: 42776.70014023781, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 287/500, time: 43066.38265633583, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 288/500, time: 43352.06708431244, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 289/500, time: 43642.98831439018, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 290/500, time: 43933.18281459808, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 291/500, time: 44221.20526313782, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 292/500, time: 44510.88219499588, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 293/500, time: 44802.82871437073, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 294/500, time: 45093.07138109207, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 295/500, time: 45389.18657422066, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 296/500, time: 45688.54962015152, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 297/500, time: 45986.50925898552, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 298/500, time: 46281.41875100136, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 299/500, time: 46576.97789359093, current best obj: 1.137584469832682.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 300/500, time: 46880.68087863922, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 301/500, time: 47179.27277612686, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 302/500, time: 47480.24366211891, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 303/500, time: 47781.56509590149, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 304/500, time: 48087.759237766266, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 305/500, time: 48395.23473262787, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 306/500, time: 48724.180790901184, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 307/500, time: 49054.44390940666, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 308/500, time: 49386.15969848633, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 309/500, time: 49722.747550964355, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 310/500, time: 50054.773654699326, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 311/500, time: 50389.38353872299, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 312/500, time: 50725.53961968422, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 313/500, time: 51063.8705971241, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 314/500, time: 51404.06066894531, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 315/500, time: 51746.80672478676, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 316/500, time: 52090.655755996704, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 317/500, time: 52454.11116194725, current best obj: 1.1385594843668676.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 318/500, time: 52834.70301103592, current best obj: 1.1532096224382238.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 319/500, time: 53218.786744356155, current best obj: 1.1532096224382238.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 320/500, time: 53614.32194018364, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 321/500, time: 54003.10956168175, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 322/500, time: 54397.337089538574, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 323/500, time: 54789.33145236969, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 324/500, time: 55188.92508101463, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 325/500, time: 55588.88166809082, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 326/500, time: 55987.127294778824, current best obj: 1.153297328015246.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 327/500, time: 56394.004956007004, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 328/500, time: 56793.52265954018, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 329/500, time: 57197.150837898254, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 330/500, time: 57599.83432841301, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 331/500, time: 58002.030970573425, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 332/500, time: 58401.45776772499, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 333/500, time: 58786.44227838516, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 334/500, time: 59203.5550699234, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 335/500, time: 59614.150389909744, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 336/500, time: 60036.351063489914, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 337/500, time: 60456.614961624146, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 338/500, time: 60864.72061061859, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 339/500, time: 61244.81096982956, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 340/500, time: 61617.69688653946, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 341/500, time: 61990.24682426453, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 342/500, time: 62375.754492759705, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 343/500, time: 62749.95277953148, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 344/500, time: 63125.8015730381, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 345/500, time: 63501.39368081093, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 346/500, time: 63880.841703653336, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 347/500, time: 64273.45063614845, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 348/500, time: 64654.35855054855, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 349/500, time: 65018.324855327606, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 350/500, time: 65386.361402750015, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 351/500, time: 65751.29758000374, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 352/500, time: 66119.64311218262, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 353/500, time: 66488.49529457092, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 354/500, time: 66865.53262114525, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 355/500, time: 67244.84871196747, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 356/500, time: 67628.69237709045, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 357/500, time: 68013.64899134636, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 358/500, time: 68398.03025007248, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 359/500, time: 68779.17162013054, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 360/500, time: 69173.0254650116, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 361/500, time: 69592.36342573166, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 362/500, time: 70009.13171768188, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 363/500, time: 70424.42688345909, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 364/500, time: 70843.70383524895, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 365/500, time: 71257.5595228672, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 366/500, time: 71681.29684519768, current best obj: 1.1542304492198172.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 367/500, time: 72104.07894515991, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 368/500, time: 72530.61481380463, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 369/500, time: 72962.08522033691, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 370/500, time: 73383.66462635994, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 371/500, time: 73810.5942261219, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 372/500, time: 74243.964802742, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 373/500, time: 74669.39110541344, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 374/500, time: 75105.76894783974, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 375/500, time: 75534.53391695023, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 376/500, time: 75967.16888570786, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 377/500, time: 76398.90867328644, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 378/500, time: 76833.24329304695, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 379/500, time: 77267.2809920311, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 380/500, time: 77696.74939107895, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 381/500, time: 78122.68895316124, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 382/500, time: 78556.7887365818, current best obj: 1.1553030266480921.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 383/500, time: 78987.41261744499, current best obj: 1.1871266562589855.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 384/500, time: 79425.55998420715, current best obj: 1.1871266562589855.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 385/500, time: 79870.56992077827, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 386/500, time: 80323.00274133682, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 387/500, time: 80766.06690239906, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 388/500, time: 81207.56698942184, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 389/500, time: 81673.66760897636, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 390/500, time: 82164.50484848022, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 391/500, time: 82666.64971423149, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 392/500, time: 83164.25504422188, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 393/500, time: 83671.6395266056, current best obj: 1.1892146033325948.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 394/500, time: 84172.6097433567, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 395/500, time: 84682.01553606987, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 396/500, time: 85184.99792838097, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 397/500, time: 85696.66078782082, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 398/500, time: 86202.85642790794, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 399/500, time: 86710.2899696827, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 400/500, time: 87220.91415500641, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 401/500, time: 87742.23904061317, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 402/500, time: 88257.2544426918, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 403/500, time: 88773.14937210083, current best obj: 1.1899700707122158.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 404/500, time: 89293.03834271431, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 405/500, time: 89814.61589717865, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 406/500, time: 90343.01849484444, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 407/500, time: 90868.16700196266, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 408/500, time: 91394.39734840393, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 409/500, time: 91930.57208323479, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 410/500, time: 92461.73228788376, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 411/500, time: 93002.02653431892, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 412/500, time: 93541.77123737335, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 413/500, time: 94083.22313523293, current best obj: 1.1964052430522722.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 414/500, time: 94617.40162944794, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 415/500, time: 95153.64427566528, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 416/500, time: 95694.49614548683, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 417/500, time: 96243.76425290108, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 418/500, time: 96793.19692587852, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 419/500, time: 97230.28750014305, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 420/500, time: 97690.38246965408, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 421/500, time: 98146.07709360123, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 422/500, time: 98598.38312149048, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 423/500, time: 99050.75073194504, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 424/500, time: 99516.29680299759, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 425/500, time: 99973.69097399712, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 426/500, time: 100437.01316642761, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 427/500, time: 100900.69777464867, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 428/500, time: 101363.6596827507, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 429/500, time: 101836.2654542923, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 430/500, time: 102301.68699121475, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 431/500, time: 102777.37472748756, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 432/500, time: 103246.41645932198, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 433/500, time: 103726.42615580559, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 434/500, time: 104197.37621498108, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 435/500, time: 104669.51185894012, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 436/500, time: 105142.64785265923, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 437/500, time: 105617.62358474731, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 438/500, time: 106095.08297371864, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 439/500, time: 106579.63610100746, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 440/500, time: 107064.93005728722, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 441/500, time: 107556.70825338364, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 442/500, time: 108039.31856107712, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 443/500, time: 108527.65032482147, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 444/500, time: 109012.59814190865, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 445/500, time: 109498.82409524918, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 446/500, time: 110045.44283461571, current best obj: 1.2019449325379026.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 447/500, time: 110611.61041140556, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 448/500, time: 111178.37439417839, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 449/500, time: 111749.45118522644, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 450/500, time: 112323.4875895977, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 451/500, time: 112891.23667287827, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 452/500, time: 113459.86486673355, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 453/500, time: 114031.64463973045, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 454/500, time: 114607.34189128876, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 455/500, time: 115183.01604747772, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 456/500, time: 115761.51308250427, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 457/500, time: 116344.87291669846, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 458/500, time: 116929.79233765602, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 459/500, time: 117513.60556197166, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 460/500, time: 118100.09800839424, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 461/500, time: 118686.65506720543, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 462/500, time: 119276.48482894897, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 463/500, time: 119867.42285108566, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 464/500, time: 120460.82659053802, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 465/500, time: 121055.20051908493, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 466/500, time: 121655.31582069397, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 467/500, time: 122252.69862627983, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 468/500, time: 122852.47349452972, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 469/500, time: 123453.19169902802, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 470/500, time: 124055.10574316978, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 471/500, time: 124659.55657792091, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 472/500, time: 125263.94745349884, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 473/500, time: 125869.99079990387, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 474/500, time: 126478.3263399601, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 475/500, time: 127088.15450334549, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 476/500, time: 127700.11618876457, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 477/500, time: 128314.54443502426, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 478/500, time: 128929.0736219883, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 479/500, time: 129545.98511791229, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 480/500, time: 130167.7975051403, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 481/500, time: 130788.66215991974, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 482/500, time: 131410.24297952652, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 483/500, time: 132034.87426519394, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 484/500, time: 132658.7258760929, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 485/500, time: 133282.5430791378, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 486/500, time: 133908.74600815773, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 487/500, time: 134525.50192666054, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 488/500, time: 135116.9927663803, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 489/500, time: 135710.50547146797, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 490/500, time: 136303.49320173264, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 491/500, time: 136903.82594347, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 492/500, time: 137503.35539078712, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 493/500, time: 138106.4336593151, current best obj: 1.306104576948069.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 494/500, time: 138710.19901561737, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 495/500, time: 139314.927952528, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 496/500, time: 139919.63454437256, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 497/500, time: 140527.49216032028, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 498/500, time: 141136.63401150703, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(
+Starting label pr__ei, seed None, iteration 499/500, time: 141748.9668416977, current best obj: 1.3193386085354468.
+/home/bz454101/anaconda3/envs/opt/lib/python3.10/site-packages/gpytorch/likelihoods/noise_models.py:148: NumericalWarning: Very small noise values detected. This will likely lead to numerical instabilities. Rounding small noise values up to 1e-06.
+  warnings.warn(

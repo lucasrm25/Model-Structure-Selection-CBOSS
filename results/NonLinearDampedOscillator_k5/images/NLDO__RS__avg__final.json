@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__RS__avg__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main_bmw/NonLinearDampedOscillator_k5_RS__20230428-113705_3.res.json",
+    "exp_name": "NLDO",
+    "method_name": "RS",
+    "name_flag": "avg",
+    "iter": 28,
+    "x": [1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1],
+    "y": [-0.5005310743557527],
+    "c": [-0.24832445727105212]
+}

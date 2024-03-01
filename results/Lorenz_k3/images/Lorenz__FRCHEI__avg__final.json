@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__FRCHEI__avg__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230520-134500_4_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "FRCHEI",
+    "name_flag": "avg",
+    "iter": 80,
+    "x": [1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1],
+    "y": [-0.16762821367771064],
+    "c": [-1.0445678075033489]
+}

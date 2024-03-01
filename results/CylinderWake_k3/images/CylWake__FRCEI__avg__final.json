@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__FRCEI__avg__final",
+    "resfile": "results/CylinderWake_k3/main_bmw/CylinderWake_k3_CBO_FRCEI_KPOLYDIFF_BS2_20230424-224222_3.res.json",
+    "exp_name": "CylWake",
+    "method_name": "FRCEI",
+    "name_flag": "avg",
+    "iter": 402,
+    "x": [0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0],
+    "y": [-1.1507869297196531],
+    "c": [-0.44304522573628047]
+}

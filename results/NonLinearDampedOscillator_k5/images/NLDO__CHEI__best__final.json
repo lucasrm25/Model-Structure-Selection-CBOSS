@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__CHEI__best__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main_bmw/NonLinearDampedOscillator_k5_CBO_CHEI_KPOLYDIFF_BS2_20230428-135829_18.res.json",
+    "exp_name": "NLDO",
+    "method_name": "CHEI",
+    "name_flag": "best",
+    "iter": 492,
+    "x": [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1],
+    "y": [-1.1144945028344677],
+    "c": [-0.12049474698314411]
+}

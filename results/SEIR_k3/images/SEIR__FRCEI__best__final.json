@@ -1,0 +1,11 @@
+{
+    "figname": "results/SEIR_k3/images/SEIR__FRCEI__best__final",
+    "resfile": "results/SEIR_k3/main/SEIR_k3_CBO_FRCEI_KPOLYDIFF_BS2_20230526-150314_9_0.res.json",
+    "exp_name": "SEIR",
+    "method_name": "FRCEI",
+    "name_flag": "best",
+    "iter": 488,
+    "x": [1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1],
+    "y": [-1.489189244089543],
+    "c": [-0.797785924622282]
+}

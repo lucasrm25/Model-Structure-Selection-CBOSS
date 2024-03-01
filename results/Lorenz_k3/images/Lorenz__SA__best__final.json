@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__SA__best__final",
+    "resfile": "results/Lorenz_k3/main_bmw/Lorenz_k3_SA_20230505-133412_6.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "SA",
+    "name_flag": "best",
+    "iter": 230,
+    "x": [1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0],
+    "y": [-0.2637647168364624],
+    "c": [-0.6451713624968858]
+}

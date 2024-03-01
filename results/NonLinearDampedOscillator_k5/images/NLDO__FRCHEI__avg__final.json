@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__FRCHEI__avg__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main/NonLinearDampedOscillator_k5_CBO_FRCHEI_KPOLYDIFF_20230520-133838_7_0.res.json",
+    "exp_name": "NLDO",
+    "method_name": "FRCHEI",
+    "name_flag": "avg",
+    "iter": 392,
+    "x": [0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1],
+    "y": [-0.8475961272825665],
+    "c": [-0.058595129389299005]
+}

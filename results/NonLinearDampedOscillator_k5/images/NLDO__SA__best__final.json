@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__SA__best__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main_bmw/NonLinearDampedOscillator_k5_SA_20230505-133435_8.res.json",
+    "exp_name": "NLDO",
+    "method_name": "SA",
+    "name_flag": "best",
+    "iter": 279,
+    "x": [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1],
+    "y": [-1.0764660938996629],
+    "c": [-0.011459447134376077]
+}

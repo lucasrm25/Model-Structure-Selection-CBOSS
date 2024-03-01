@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__FRCHEI__best__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "FRCHEI",
+    "name_flag": "best",
+    "iter": 435,
+    "x": [0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "y": [-0.341976694653157],
+    "c": [-1.100922926698666]
+}

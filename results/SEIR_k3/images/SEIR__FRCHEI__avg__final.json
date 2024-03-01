@@ -1,0 +1,11 @@
+{
+    "figname": "results/SEIR_k3/images/SEIR__FRCHEI__avg__final",
+    "resfile": "results/SEIR_k3/main_bmw/SEIR_k3_CBO_FRCHEI_KPOLYDIFF_20230420-195707_0.res.json",
+    "exp_name": "SEIR",
+    "method_name": "FRCHEI",
+    "name_flag": "avg",
+    "iter": 484,
+    "x": [1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1],
+    "y": [-1.4781100380264116],
+    "c": [-1.6383072859338328]
+}

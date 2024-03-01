@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__PR__avg__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main/NonLinearDampedOscillator_k5_PR_20230529-224601_3_0.res.json",
+    "exp_name": "NLDO",
+    "method_name": "PR",
+    "name_flag": "avg",
+    "iter": 413,
+    "x": [0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 1.0],
+    "y": [-0.6806351139159872],
+    "c": [-0.17737866797020763]
+}

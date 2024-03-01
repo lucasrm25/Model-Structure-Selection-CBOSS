@@ -1,0 +1,107 @@
+
+
+# CYLINDER WAKE
+# =============
+
+CylinderWake_k2:
+  model_name: CylinderWake_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 2
+      coeff_L1norm_thres: 10
+
+CylinderWake_k3:
+  model_name: CylinderWake_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 3
+      coeff_L1norm_thres: 50
+
+
+# LORENZ OSCILLATOR
+# =================
+
+Lorenz_k2:
+  model_name: Lorenz_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 2
+      coeff_L1norm_thres: 100
+
+Lorenz_k3:
+  model_name: Lorenz_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 3
+      coeff_L1norm_thres: 100
+
+#     SEIR
+# =============
+
+SEIR_k2:
+  model_name: SEIR_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 2
+      coeff_L1norm_thres: 20
+
+SEIR_k3:
+  model_name: SEIR_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 3
+      coeff_L1norm_thres: 100
+
+# Chua Oscillator
+# ===============
+
+ChuaOscillator_k3:
+  model_name: ChuaOscillator_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 3
+      coeff_L1norm_thres: 100
+
+# Nonlinear Damped Oscillator
+# ===============
+
+NonLinearDampedOscillator_k4:
+  model_name: NonLinearDampedOscillator_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 4
+      coeff_L1norm_thres: 7
+
+NonLinearDampedOscillator_k5:
+  model_name: NonLinearDampedOscillator_Model
+  n_init: 50
+  evalBudget: 500
+  model:
+    random_seed_init_dataset: 2023
+    kwargs:
+      k: 5
+      coeff_L1norm_thres: 7

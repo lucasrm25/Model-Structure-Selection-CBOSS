@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__FRCHEI__worst__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230520-134500_3_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "FRCHEI",
+    "name_flag": "worst",
+    "iter": 138,
+    "x": [0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1],
+    "y": [-0.07423930879332022],
+    "c": [-0.43157335507791306]
+}

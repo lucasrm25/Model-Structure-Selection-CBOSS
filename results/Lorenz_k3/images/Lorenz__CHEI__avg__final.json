@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__CHEI__avg__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_CBO_CHEI_KPOLYDIFF_20230519-171729_4_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "CHEI",
+    "name_flag": "avg",
+    "iter": 315,
+    "x": [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "y": [-0.15323977970505454],
+    "c": [-0.5973248200314281]
+}

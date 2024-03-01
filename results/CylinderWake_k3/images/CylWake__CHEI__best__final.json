@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__CHEI__best__final",
+    "resfile": "results/CylinderWake_k3/main/CylinderWake_k3_CBO_CHEI_KPOLYDIFF_BS2_20230526-150206_1_0.res.json",
+    "exp_name": "CylWake",
+    "method_name": "CHEI",
+    "name_flag": "best",
+    "iter": 499,
+    "x": [0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0],
+    "y": [-1.1543999814157222],
+    "c": [-0.3163988321222142]
+}

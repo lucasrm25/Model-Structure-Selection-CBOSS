@@ -1,0 +1,8 @@
+evalBudget: 500
+model:
+  kwargs:
+    coeff_L1norm_thres: 50
+    k: 3
+  random_seed_init_dataset: 2023
+model_name: CylinderWake_Model
+n_init: 50

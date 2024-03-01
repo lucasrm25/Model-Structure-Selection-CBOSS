@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__CHEI__avg__final",
+    "resfile": "results/CylinderWake_k3/main/CylinderWake_k3_CBO_CHEI_KPOLYDIFF_BS2_20230526-150209_8_0.res.json",
+    "exp_name": "CylWake",
+    "method_name": "CHEI",
+    "name_flag": "avg",
+    "iter": 476,
+    "x": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0],
+    "y": [-0.9117842744861435],
+    "c": [-0.007679625659033018]
+}

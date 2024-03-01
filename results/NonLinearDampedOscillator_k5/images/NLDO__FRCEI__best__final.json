@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__FRCEI__best__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main/NonLinearDampedOscillator_k5_CBO_FRCEI_KPOLYDIFF_BS2_20230526-150312_5_0.res.json",
+    "exp_name": "NLDO",
+    "method_name": "FRCEI",
+    "name_flag": "best",
+    "iter": 269,
+    "x": [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1],
+    "y": [-1.154180842418775],
+    "c": [-0.020909127210815948]
+}

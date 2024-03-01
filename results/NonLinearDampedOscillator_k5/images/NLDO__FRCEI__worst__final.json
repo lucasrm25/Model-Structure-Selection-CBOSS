@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__FRCEI__worst__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main_bmw/NonLinearDampedOscillator_k5_CBO_FRCEI_KPOLYDIFF_20230420-201437_15.res.json",
+    "exp_name": "NLDO",
+    "method_name": "FRCEI",
+    "name_flag": "worst",
+    "iter": 495,
+    "x": [1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1],
+    "y": [-0.6500594532472321],
+    "c": [-0.21425215017038002]
+}

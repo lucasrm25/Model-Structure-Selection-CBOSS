@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__SA__worst__final",
+    "resfile": "results/CylinderWake_k3/main/CylinderWake_k3_SA_20230529-222356_1_0.res.json",
+    "exp_name": "CylWake",
+    "method_name": "SA",
+    "name_flag": "worst",
+    "iter": 34,
+    "x": [0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0],
+    "y": [-0.06719009396292958],
+    "c": [-1.0636841324061446]
+}

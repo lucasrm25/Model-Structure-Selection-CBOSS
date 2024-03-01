@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__RS__best__final",
+    "resfile": "results/CylinderWake_k3/main_bmw/CylinderWake_k3_RS__20230428-111525_6.res.json",
+    "exp_name": "CylWake",
+    "method_name": "RS",
+    "name_flag": "best",
+    "iter": 499,
+    "x": [0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1],
+    "y": [-0.8081654252857968],
+    "c": [-0.13327525794084272]
+}

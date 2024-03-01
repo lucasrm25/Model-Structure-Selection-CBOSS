@@ -1,0 +1,11 @@
+{
+    "figname": "results/NonLinearDampedOscillator_k5/images/NLDO__CHEI__avg__final",
+    "resfile": "results/NonLinearDampedOscillator_k5/main/NonLinearDampedOscillator_k5_CBO_CHEI_KPOLYDIFF_BS2_20230526-145945_8_0.res.json",
+    "exp_name": "NLDO",
+    "method_name": "CHEI",
+    "name_flag": "avg",
+    "iter": 457,
+    "x": [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1],
+    "y": [-0.7684305359134083],
+    "c": [-0.2386553384551353]
+}

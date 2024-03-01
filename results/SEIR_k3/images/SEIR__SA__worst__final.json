@@ -1,0 +1,11 @@
+{
+    "figname": "results/SEIR_k3/images/SEIR__SA__worst__final",
+    "resfile": "results/SEIR_k3/main_bmw/SEIR_k3_SA_20230505-133314_0.res.json",
+    "exp_name": "SEIR",
+    "method_name": "SA",
+    "name_flag": "worst",
+    "iter": 33,
+    "x": [1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1],
+    "y": [-0.06612508448545068],
+    "c": [-0.21384107538903674]
+}

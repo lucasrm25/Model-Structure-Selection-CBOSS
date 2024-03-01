@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__CHEI__best__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_CBO_CHEI_KPOLYDIFF_BS2_20230526-150130_9_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "CHEI",
+    "name_flag": "best",
+    "iter": 269,
+    "x": [1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1],
+    "y": [-0.2534222305798169],
+    "c": [-0.8733530550644328]
+}

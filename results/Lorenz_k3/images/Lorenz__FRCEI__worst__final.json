@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__FRCEI__worst__final",
+    "resfile": "results/Lorenz_k3/main_bmw/Lorenz_k3_CBO_FRCEI_KPOLYDIFF_20230420-194802_1.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "FRCEI",
+    "name_flag": "worst",
+    "iter": 361,
+    "x": [0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0],
+    "y": [-0.05777760512674562],
+    "c": [-1.2840113670901907]
+}

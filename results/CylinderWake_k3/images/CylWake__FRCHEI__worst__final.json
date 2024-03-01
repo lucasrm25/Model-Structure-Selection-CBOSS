@@ -1,0 +1,11 @@
+{
+    "figname": "results/CylinderWake_k3/images/CylWake__FRCHEI__worst__final",
+    "resfile": "results/CylinderWake_k3/main_bmw/CylinderWake_k3_CBO_FRCHEI_KPOLYDIFF_BS2_20230425-172102_0.res.json",
+    "exp_name": "CylWake",
+    "method_name": "FRCHEI",
+    "name_flag": "worst",
+    "iter": 458,
+    "x": [0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0],
+    "y": [-0.6936370950254549],
+    "c": [-0.17527915342827471]
+}

@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__FRCEI__avg__final",
+    "resfile": "results/Lorenz_k3/main_bmw/Lorenz_k3_CBO_FRCEI_KPOLYDIFF_20230420-194802_4.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "FRCEI",
+    "name_flag": "avg",
+    "iter": 89,
+    "x": [1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1],
+    "y": [-0.17350578610430117],
+    "c": [-0.9193122233844342]
+}

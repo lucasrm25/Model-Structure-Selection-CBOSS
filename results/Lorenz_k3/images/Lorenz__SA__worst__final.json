@@ -1,0 +1,11 @@
+{
+    "figname": "results/Lorenz_k3/images/Lorenz__SA__worst__final",
+    "resfile": "results/Lorenz_k3/main/Lorenz_k3_SA_20230529-222329_4_0.res.json",
+    "exp_name": "Lorenz",
+    "method_name": "SA",
+    "name_flag": "worst",
+    "iter": 32,
+    "x": [0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0],
+    "y": [-0.018635633714080883],
+    "c": [-1.1102498276821393]
+}
