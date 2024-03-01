@@ -1,0 +1,14 @@
+[submodule "CBOSS"]
+	path = CBOSS
+	url = https://github.com/lucasrm25/CBOSS.git
+	branch = master
+[submodule "bo_pr"]
+	path = bo_pr
+	url = https://github.com/lucasrm25/BO_ProbabilisticReparameterization.git
+	branch = main
+[submodule "MIPEGO"]
+	path = MIPEGO
+	url = https://github.com/wangronin/MIP-EGO.git
+[submodule "BOCS"]
+	path = BOCS
+	url = https://github.com/lucasrm25/BOCS.git
