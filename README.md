@@ -26,7 +26,7 @@ git submodule update --force --recursive --init --remote
 Next, create a virtual environment with python version `3.10.0` and install the dependencies:
 1. install the `CBO` dependencies:
     ```sh
-    cd CBO
+    cd CBOSS
     pip install -e .
     ```
 
