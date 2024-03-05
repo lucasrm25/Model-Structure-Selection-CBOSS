@@ -5,36 +5,72 @@ This repository is part of the submission at the Transactions in Machine Learnin
 [Discovering Model Structure of Dynamical Systems with Combinatorial Bayesian Optimization](https://openreview.net/forum?id=2iOOvQmJBK)
 
 
-[CBOSS](https://github.com/lucasrm25/CBOSS) is our novel Bayesian optimizer for model structure selection in system identification. Our method outperforms the state-of-the-art in constrained combinatorial optimization of black-box functions and has a favorable computational overhead compared to other BO methods.
+## Model Structure Selection with CBOSS
 
-## Abstract 
+[CBOSS](https://github.com/lucasrm25/CBOSS) is a **Bayesian Optimization** method used to solve **combinatorial optimization problems subject to inequality and crash constraints**:
 
-Deciding on a model structure is a fundamental problem in machine learning. In this paper we consider the problem of building a data-based model for dynamical systems from a library of discrete components. In addition to optimizing performance, we consider crash and inequality constraints that arise from additional requirements, such as real-time capability and model complexity. We address this task of model structure selection with a focus on dynamical systems and propose to search over potential model structures efficiently using a constrained combinatorial Bayesian Optimization (BO) algorithm. We propose expressive surrogate models suited for combinatorial domains and an acquisition function that can handle inequality and crash constraints. We provide simulated benchmark problems within the domain of equation discovery of nonlinear dynamical systems. Our method outperforms the state-of-the-art in constrained combinatorial optimization of black-box functions and has a favorable computational overhead compared to other BO methods. As a real-world application example, we apply our method to optimize the configuration of an electric vehicle's digital twin while ensuring its real-time capability for the use in one of the world's largest driving simulators.
+$$
+\begin{align}
+    \boldsymbol x^* = \arg\min_{\boldsymbol x\in\mathcal X} & \quad f (\boldsymbol x) 
+    \\
+    s.t. & \quad g_j(\boldsymbol x) \leq 0 \quad  \forall j \in \{1, \dots, M\} \\
+         & \quad h(\boldsymbol x) = 1
+\end{align}
+$$
 
-## Installation
+where 
+- $x$ is a vector of categorical decision variables denoted as $\boldsymbol x \in \mathcal X$, defined over the combinatorial domain $\mathcal X = \mathcal X_1 \times \mathcal X_2 \times\dots \times \mathcal X_d$ with $d$ categorical decision variables with respective cardinalities $k_1, \dots, k_d$.
+- $f: \mathcal X \to \mathbb R$ is the objective function.
+- $g_j: \mathcal X \to \mathbb R$ are the inequality constraints.
+- $h: \mathcal X \to \{0,1\}$ are the binary equality constraints indicating evaluation "crashes".
 
-Clone this repository with the submodule flags:
-```sh
-git clone https://github.com/lucasrm25/Model-Structure-Selection-CBOSS.git --recurse-submodules
-```
+<br>
 
-If you happen to clone this repository without the `--recurse-submodules` flag, please download the submodules manually as follows:
-```sh
-git submodule update --force --recursive --init --remote
-```
+[CBOSS](https://github.com/lucasrm25/CBOSS) can be used as a [model structure selection](https://en.wikipedia.org/wiki/Model_selection) method in system identification to learn the optimal structure of differential equations (parameterized with binary/categorical decision variables) from noisy measurements:
+1. At each iteration, CBOSS proposes a new model structure candidate $\boldsymbol x$
+2. The free model coefficients, resulting from the model structure $\boldsymbol x$, is then identified from data using parameter estimation techniques. 
+3. Finally, the resulting identified model (structure + parameters) is simulated and evaluated according to a given performance function $f(\boldsymbol x)$ a constraint function $g(\boldsymbol x)$ and a crash constraint $h(\boldsymbol x)$.
+4. The model evaluation is then used as feedback for CBOSS to guide the search for better model structures
 
-Next, create a virtual environment with python version `3.10.0` and install the dependencies:
-1. install the `CBO` dependencies:
-    ```sh
-    cd CBOSS
-    pip install -e .
-    ```
+<br>
 
-2. install the `PR` dependencies:
-    ```sh
-    cd bo_pr
-    pip install -e .
-    ```
+<img src="doc/FRCHEI-diagramm_02_simple.png" alt="drawing" style="width:600px;"/>
+
+
+<br>
+
+[CBOSS](https://github.com/lucasrm25/CBOSS) is ideal for:
+- **expensive-to-evaluate** models
+- models that can **crash** (due to instabilities or invalid resulting model structure composition). CBOSS learns and avoids crash regions as a function of the model structure.
+- considering additional requirements that can be formulated as **inequality constraints**, e.g. computational complexity requirements (real-time constraints), model regularization, etc.
+
+<br>
+
+We explore benchmark problems in the context of system identification of low dimensional dynamical systems.
+We parameterize the model structure with a vector of categorical decision variables, which add or remove terms in the differential equations.
+Below we can see the progress of [CBOSS](https://github.com/lucasrm25/CBOSS) in learning better model structures for two dynamical systems, Cylinder Wake and Lorenz oscillator:
+
+<table>
+ <tr>
+   <th>Iteration 10</th>
+   <th>Iteration 100</th>
+   <th>Iteration 250</th>
+   <th>Iteration 500</th>
+ </tr>
+ <tr>
+   <td> <img src="results/CylinderWake_k3/images/CylinderWake_k3_CBO_FRCHEI_KPOLY_20230520-002641_1_0__iter_8.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/CylinderWake_k3/images/CylinderWake_k3_CBO_FRCHEI_KPOLY_20230520-002641_1_0__iter_72.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/CylinderWake_k3/images/CylinderWake_k3_CBO_FRCHEI_KPOLY_20230520-002641_1_0__iter_172.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/CylinderWake_k3/images/CylinderWake_k3_CBO_FRCHEI_KPOLY_20230520-002641_1_0__iter_498.png" alt="drawing" style="width:200px;"/> </td>
+ </tr>
+ <tr>
+   <td> <img src="results/Lorenz_k3/images/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0__iter_0.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/Lorenz_k3/images/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0__iter_88.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/Lorenz_k3/images/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0__iter_249.png" alt="drawing" style="width:200px;"/> </td>
+   <td> <img src="results/Lorenz_k3/images/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0__iter_435.png" alt="drawing" style="width:200px;"/> </td>
+ </tr>
+</table>
+
 
 ## Running Benchmark Experiments
 
@@ -95,6 +131,32 @@ The result pdf images will be saved to the [results/](results/) folder, for inst
 
 ![yminfeas_wall_nbrfeas__x__iter__main](results/yminfeas_wall_nbrfeas__x__iter__main.png)
 
+
+
+## Installation
+
+Clone this repository with the submodule flags:
+```sh
+git clone https://github.com/lucasrm25/Model-Structure-Selection-CBOSS.git --recurse-submodules
+```
+
+If you happen to clone this repository without the `--recurse-submodules` flag, please download the submodules manually as follows:
+```sh
+git submodule update --force --recursive --init --remote
+```
+
+Next, create a virtual environment with python version `3.10.0` and install the dependencies:
+1. install the `CBO` dependencies:
+    ```sh
+    cd CBOSS
+    pip install -e .
+    ```
+
+2. install the `PR` dependencies:
+    ```sh
+    cd bo_pr
+    pip install -e .
+    ```
 
 
 ## Citation

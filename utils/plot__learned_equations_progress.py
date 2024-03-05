@@ -33,9 +33,13 @@ if __name__ == "__main__":
     results_folder = Path(__file__).parent.parent / 'results'
     
     # define the result file to plot
+    
     exp_name = 'CylinderWake_k3'
-    resfile = results_folder / f'{exp_name}/main/CylinderWake_k3_CBO_FRCEI_KPOLYDIFF_BS2_20230424-223005_1.res.json'
-
+    resfile = results_folder / f'{exp_name}/main/CylinderWake_k3_CBO_FRCHEI_KPOLY_20230520-002641_1_0.res.json'
+    
+    exp_name = 'Lorenz_k3'
+    resfile = results_folder / f'{exp_name}/main/Lorenz_k3_CBO_FRCHEI_KPOLYDIFF_20230519-125018_1_0.res.json'
+    
     # define folder where the images will be saved
     img_folder = resfile.parent.parent/'images'
     img_folder.mkdir(exist_ok=True, parents=True)
@@ -57,7 +61,7 @@ if __name__ == "__main__":
 
 
     # load result
-    with open(results_folder / resfile, 'rb') as f:
+    with open(resfile, 'rb') as f:
         res = json.load(f)
         # convert all arrays to numpy
         res = {k: np.array(v) for k, v in res.items()}
@@ -69,7 +73,6 @@ if __name__ == "__main__":
     # select only 3 values from array iter_improvement for plotting (first, last, and `n-2` in between)
     idx_selector = np.linspace(0, len(iter_improvement)-1, n_images, dtype=int)
     iter_improvement = iter_improvement[idx_selector]
-
 
 
     X = res['X'][iter_improvement] 
@@ -131,66 +134,6 @@ if __name__ == "__main__":
             plt.tight_layout(rect=[-0.1, 0, 0.9, 1.1])
         
         fig.savefig(f'{figname}.png', dpi=200)
-        fig.savefig(f'{figname}.svg')
+        # fig.savefig(f'{figname}.svg')
         print(f'\tSaving: {figname}')
         plt.close(fig)
-    
-    
-    
-    
-    if False:
-        figname = img_folder/f"{rec_stem(resfile)}__opt_progress"
-        
-        sns.set_style('darkgrid')
-
-        plt.rcParams.update({
-            'axes.facecolor': 'none',
-            'lines.linewidth': 1.5,
-            'grid.color': 'lightgray',
-            'legend.facecolor': '#EAEAF2',
-        })
-    
-        fig = plt.figure(figsize=(14,3))
-        gs = gridspec.GridSpec(1, n_images)
-        for i, (xi, yi, ci, Z_sim_i) in enumerate(zip(X, y, c, Z_sim)):
-            ax = fig.add_subplot(gs[0,i], projection='3d')
-            ax.plot3D(*Z_sim_i.T, label='simulation')
-            ax.plot3D(*Z_true.T, label='measurement', alpha=0.5)
-            # ax.set_title(f'x: {xi}  y: {yi[0]:.2f}  c: {ci[0]:.2f}\n')
-            # ax.legend(loc='upper left')
-            ax.set_xlabel('x'), ax.set_ylabel('y'), ax.set_zlabel('z')
-
-            # change the grid pane color to transparent
-            ax.xaxis.pane.fill = False
-            ax.yaxis.pane.fill = False
-            ax.zaxis.pane.fill = False
-            # ax.xaxis.set_pane_color('#EAEAF2')
-            # ax.yaxis.set_pane_color('#EAEAF2')
-            # ax.zaxis.set_pane_color('#EAEAF2')
-
-            # change ticks color to grey
-            ax.tick_params(axis='x', colors='grey')
-            ax.tick_params(axis='y', colors='grey')
-            ax.tick_params(axis='z', colors='grey')
-            
-            # ax.set_facecolor('#EAEAF2')
-        # increase the lateral distance between subplots
-        
-        lines, labels = ax.get_legend_handles_labels()
-        leg = fig.legend(
-            lines, labels,
-            loc="center",
-            bbox_to_anchor=(0.5, 0.1),
-            ncol=2,
-            title=None, frameon=True,
-        )
-        leg.set_in_layout(True)
-        # tight layout with increased padding at the bottom
-        fig.tight_layout(rect=[0, 0.05, 0.95, 1.2])
-        # fig.tight_layout()
-        plt.subplots_adjust(wspace=0.15)
-        
-        fig.savefig(f'{figname}.png', dpi=300)
-        fig.savefig(f'{figname}.svg')
-        plt.close()
-
