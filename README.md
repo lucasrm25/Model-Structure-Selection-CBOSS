@@ -165,12 +165,13 @@ If you use this code in your research, please cite the following paper:
 
 ```bibtex
 @article{
-    anonymous2023discovering,
-    title={Discovering Model Structure of Dynamical Systems with Combinatorial Bayesian Optimization},
-    author={Anonymous},
-    journal={Submitted to Transactions on Machine Learning Research},
-    year={2023},
-    url={https://openreview.net/forum?id=2iOOvQmJBK},
-    note={Under review}
+  rath2024discovering,
+  title={Discovering Model Structure of Dynamical Systems with Combinatorial Bayesian Optimization},
+  author={Lucas Rath and Alexander von Rohr and Andreas Schultze and Sebastian Trimpe and Burkhard Corves},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=2iOOvQmJBK},
+  note={}
 }
 ```
